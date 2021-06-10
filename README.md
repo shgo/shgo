@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Saullo Oliveira, ML researcher and Data Scientist based in Brazil.
+I am Saullo Oliveira, ML researcher and Data Scientist based in Campinas, SP - Brazil.
 
 - 🔭 I’m currently in the late stages of my PhD in Computer Engineering. My research is focused on Multi-Task Learning methods, and I've also been working as a Data Scientist for more than 2 years.
 - 🌱 My main interests are Machine Learning, Mathematical Optimization, and Music in general.
