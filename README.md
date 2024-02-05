@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Saullo Oliveira, ML researcher and Data Scientist based in Campinas, SP - Brazil.
-
-- 🔭 I’m currently in the late stages of my PhD in Computer Engineering. My research is focused on Multi-Task Learning methods, and I've also been working as a Data Scientist for quite some time now.
-- 🌱 My main interests are Machine Learning, Mathematical Optimization, and Music in general.
+I am Saullo Oliveira, Researcher Professor at Pontifícia Universidade Católica de Campinas (PUC-Campinas).
+- 🌱 My main interests are Multi-Task Learning, Structured Sparsity, Non-Convex Optimization, Natural Language Processing, .
 - 📫 For more information you can check out my website =) http://sholiveira.com, or reach me on [LinkedIn](https://www.linkedin.com/in/saullo-oliveira-2934aa175/).
