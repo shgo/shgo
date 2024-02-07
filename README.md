@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 I am Saullo Oliveira, Researcher Professor at Pontifícia Universidade Católica de Campinas (PUC-Campinas).
-- 🌱 My main interests are Multi-Task Learning, Structured Sparsity, Non-Convex Optimization, Natural Language Processing, .
+- 🌱 My main research interests are Multi-Task Learning, Structured Sparsity, Non-Convex Optimization, Natural Language Processing.
 - 📫 For more information you can check out my website =) http://sholiveira.com, or reach me on [LinkedIn](https://www.linkedin.com/in/saullo-oliveira-2934aa175/).
