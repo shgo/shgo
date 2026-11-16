@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 I am Saullo Oliveira, Post-doc at EMAp-FGV, Rio de Janeiro.
-- My main research interests are GFlowNets, Structured Sparsity, Non-Convex Optimization, Natural Language Processing.
+- My main research interests are GFlowNets, Structured Sparsity, Natural Language Processing.
 - For more information you can reach me on [LinkedIn](https://www.linkedin.com/in/saullo-oliveira-2934aa175/).
